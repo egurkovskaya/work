@@ -1,0 +1,14 @@
+<suite name="Any Name">
+ 
+ <test name="My Test">
+  
+ 
+ <classes>
+ 
+  <class name="automationFramework.Reporting" />
+ 
+ </classes>
+ 
+ </test>
+ 
+ </suite>

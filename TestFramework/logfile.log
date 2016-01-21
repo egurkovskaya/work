@@ -1,0 +1,12 @@
+2016-01-18 17:02:58,806 INFO  [NewTest] New driver instantiated 
+2016-01-18 17:02:58,895 INFO  [NewTest] Implicit wait applied on the driver for 10 seconds 
+2016-01-18 17:02:59,540 INFO  [NewTest] Web application launched 
+2016-01-18 17:03:08,460 INFO  [NewTest] New driver instantiated 
+2016-01-18 17:03:08,488 INFO  [NewTest] Implicit wait applied on the driver for 10 seconds 
+2016-01-18 17:03:09,289 INFO  [NewTest] Web application launched 
+2016-01-18 17:03:17,528 INFO  [NewTest] New driver instantiated 
+2016-01-18 17:03:17,848 INFO  [NewTest] Implicit wait applied on the driver for 10 seconds 
+2016-01-18 17:03:18,463 INFO  [NewTest] Web application launched 
+2016-01-18 17:10:18,794 INFO  [NewTest] New driver instantiated 
+2016-01-18 17:10:18,886 INFO  [NewTest] Implicit wait applied on the driver for 10 seconds 
+2016-01-18 17:10:19,543 INFO  [NewTest] Web application launched 
